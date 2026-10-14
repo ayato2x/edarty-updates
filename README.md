@@ -3,7 +3,7 @@
 **برنامج كاشير ومخزون لمحلات الملابس الرياضية ومستلزمات السباحة** — مايوهات، نضارات، طواقي، زعانف،
 ملابس وأحذية رياضية. برنامج ويندوز بيتسطّب على جهاز المحل، وبيشتغل **من غير نت**.
 
-**⬇️ [نزّل آخر إصدار](https://github.com/ayato2x/edarty-updates/releases/latest)** — الملف اللي اسمه `EdartyStore-Setup-….exe`
+**⬇️ [نزّل برنامج التثبيت](https://github.com/ayato2x/edarty-updates/releases/latest/download/Edarty-Store-Setup.exe)** — `Edarty-Store-Setup.exe`، واللينك ده دايماً بيجيب آخر إصدار.
 
 ---
 
@@ -51,7 +51,7 @@
 - نت **مرة واحدة** وقت التفعيل، وبعد كده للتحديثات بس.
 
 ## التثبيت والتفعيل
-1. نزّل `EdartyStore-Setup-….exe` من [آخر إصدار](https://github.com/ayato2x/edarty-updates/releases/latest) وشغّله.
+1. نزّل [`Edarty-Store-Setup.exe`](https://github.com/ayato2x/edarty-updates/releases/latest/download/Edarty-Store-Setup.exe) وشغّله، ودوس «تثبيت». لو البرنامج مفتوح هيقولك تقفله الأول.
 2. لو ويندوز قال **«Windows protected your PC»**: اضغط **More info** ثم **Run anyway**.
    ده بيظهر لأن البرنامج مش معاه شهادة توقيع مدفوعة، مش لأن فيه مشكلة.
 3. اكتب **كود التفعيل** اللي استلمته.
@@ -75,3 +75,4 @@
 | `EdartyStore-Setup-x.y.z.exe` | المثبّت |
 | `latest.yml` | اللي البرنامج بيقراه — فيه رقم النسخة وبصمة sha512 للمثبّت |
 | `EdartyStore-Setup-x.y.z.exe.blockmap` | بيخلّي التحديث ينزّل الفرق بس مش الملف كله |
+| `Edarty-Store-Setup.exe` | برنامج التثبيت بشكل البرنامج للأجهزة الجديدة — جواه المثبّت العادي. مش بيدخل في التحديثات |
